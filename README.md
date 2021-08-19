@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70" style="max-width:100%;"> </img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="57" style="max-width:100%;"> </img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT NATIVE" width="70" style="max-width:100%;"> </img>
- * **_Empathy_** ; 
+ 
  * **_Empathy_**;
  * **_Cooperation_**;
  * **_Flexibility_**;
