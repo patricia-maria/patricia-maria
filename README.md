@@ -1,5 +1,5 @@
 ## Hiiii
-## My name is Patricia but I go by **Patty** 🌻
+## My name is Patricia and my surname is **Patty** 🌻
 - I live in Brazil, South of the country
 - I study at Unritter college, course internet systems 👩‍💻
 - I have been learning React Native at Rocketseat 🚀
