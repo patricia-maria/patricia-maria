@@ -1,4 +1,4 @@
-## Hiiii
+## Hi
 ## My name is Patricia and my surname is **Patty** 🌻
 - I live in Brazil, South of the country
 - I study at Unritter college, course internet systems 👩‍💻
